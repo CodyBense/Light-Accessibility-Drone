@@ -1,4 +1,3 @@
 # Light-Accessibility-Drone
 Georgia Southern University - Senior Capstone Spring 2022
 
-Our purpose for creating this project is  to create a design for a small drone so that people with mobility problems, particularly the bed-bound, would be able to pick up and move small objects around the room without another person’s assistance. Being confined to a bed can present a multitude of challenges to people with such disabilities, requiring assistance for even the smallest of tasks. By designing a device to help pick up and move objects around a room, someone that’s confined to their bed would require less assistance than previously, in that regard. We hope that by designing and constructing this method of control for a drone that we’ll be able to provide people with disabilities with some amount of autonomy that they might not have had otherwise. 
